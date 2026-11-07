@@ -1,0 +1,7 @@
+- id: skillvet
+  name: skillvet
+  description: Lint Agent Skills for broken frontmatter, context bloat and supply-chain risks.
+  entry: skillvet
+  language: python
+  pass_filenames: false
+  args: ["."]
